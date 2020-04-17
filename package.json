@@ -1,0 +1,20 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "\"Simple Node Examples\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Anshaj Upadhyaya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshaz/NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anshaz/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Anshaz/NodeJS#readme"
+}
